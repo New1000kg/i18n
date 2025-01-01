@@ -4,7 +4,7 @@ icon: material/hand-coin
 description: Your buying habits are the holy grail of ad targeting, but you still have plenty of options when it comes to making payments privately.
 ---
 
-Data about your buying habits is considered the holy grail of ad targeting: your purchases can leak a veritable treasure trove of data about you. Malheureusement, le système financier actuel est, de par sa conception, hostile à la protection de la vie privée, car il permet aux banques, aux autres entreprises et aux gouvernements de retracer facilement les transactions. Néanmoins, vous disposez de nombreuses options pour effectuer des paiements de façon privée.
+Les données relatives à vos habitudes d'achat sont considérées comme le Saint Graal du ciblage publicitaire : vos paiements peuvent révéler un véritable trésor de données vous concernant. Malheureusement, le système financier actuel est, de par sa conception, hostile à la protection de la vie privée, car il permet aux banques, aux autres entreprises et aux gouvernements de retracer facilement les transactions. Néanmoins, vous disposez de nombreuses options pour effectuer des paiements de façon privée.
 
 ## Argent liquide
 
